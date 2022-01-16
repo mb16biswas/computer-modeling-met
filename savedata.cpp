@@ -5,26 +5,7 @@ using namespace std;
 #define X_AXIS 100
 #define Y_AXIS 1000
 
-/*Group-4 
-______________________________________________________________________________
 
-Zn composition vs Tensile strength of brass  
-
-
-   Roll           students
-
-1911301041		Priyam Biswas	
-1911301042		Sushovan Sanfui	
-1911301043		Momojit Biswas	
-1911301044		Azhar Mahmood	
-1911301045		Sayan De	
-1911301047		Barun Kumar Rai	
-
-In this program a user save the data for Zn composition and the Tesile strength of brass into a text file
-If needed the user can also plot the graph 
-________________________________________________________________________________
-
-*/
 
 void draw_graph(vector<double> X, vector<double> Y)
 {
